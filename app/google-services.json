@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "765154408178",
+    "firebase_url": "https://pokefit-c3158-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pokefit-c3158",
+    "storage_bucket": "pokefit-c3158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765154408178:android:03b34bb72c6229b5e1826b",
+        "android_client_info": {
+          "package_name": "com.example.pokefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765154408178-3oefdj9ocl84gavf5mbb1l0tsc4gfh4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pokefit",
+            "certificate_hash": "f607c9e9361f979f2b3f6f894a45495de9a67d91"
+          }
+        },
+        {
+          "client_id": "765154408178-3a2mi45scoff6ujl8316048dnhf6iadb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhiSZf1BggoL8ACF82f3N42_oU1Pwa2Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765154408178-3a2mi45scoff6ujl8316048dnhf6iadb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
